@@ -1,0 +1,12 @@
+com\xpf\service\impl\UserServiceImpl.class
+com\xpf\service\IPermissionService.class
+com\xpf\service\IProductService.class
+com\xpf\service\impl\ProductServiceImpl.class
+com\xpf\service\impl\PermissionServiceImpl.class
+com\xpf\service\impl\RoleServiceImpl.class
+com\xpf\service\ISysLogService.class
+com\xpf\service\IUserService.class
+com\xpf\service\impl\SysLogServiceImpl.class
+com\xpf\service\IOrdersService.class
+com\xpf\service\IRoleService.class
+com\xpf\service\impl\OrdersServiceImpl.class

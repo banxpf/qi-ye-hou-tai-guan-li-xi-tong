@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/xpf_ssm.iml" filepath="$PROJECT_DIR$/xpf_ssm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xpf_ssm_dao01/xpf_ssm_dao01.iml" filepath="$PROJECT_DIR$/xpf_ssm_dao01/xpf_ssm_dao01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xpf_ssm_domian/xpf_ssm_domian.iml" filepath="$PROJECT_DIR$/xpf_ssm_domian/xpf_ssm_domian.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xpf_ssm_service/xpf_ssm_service.iml" filepath="$PROJECT_DIR$/xpf_ssm_service/xpf_ssm_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xpf_ssm_utils/xpf_ssm_utils.iml" filepath="$PROJECT_DIR$/xpf_ssm_utils/xpf_ssm_utils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xpf_ssm_web/xpf_ssm_web.iml" filepath="$PROJECT_DIR$/xpf_ssm_web/xpf_ssm_web.iml" />
+    </modules>
+  </component>
+</project>
